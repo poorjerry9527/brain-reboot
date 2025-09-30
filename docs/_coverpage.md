@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](pic/stu.ico)
+![logo](pic/stu.png)
 
 # docsify <small>3.5</small>
 
@@ -12,6 +12,7 @@
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](#docsify)
+
 
 
 
