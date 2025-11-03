@@ -1,2 +1,3 @@
-* [📝 日记](log/)
-* [📒 笔记](notes/)
+* [📖 首页](/)
+* [📝 日记](log/README.md)
+* [📒 笔记](notes/README.md)
